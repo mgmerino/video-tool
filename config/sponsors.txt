@@ -1,0 +1,8 @@
+file '../resources/images/sponsors/sponsors1.png'
+duration 2
+file '../resources/images/sponsors/sponsors2.png'
+duration 2
+file '../resources/images/sponsors/sponsors3.png'
+duration 2
+file '../resources/images/sponsors/sponsors4.png'
+duration 2

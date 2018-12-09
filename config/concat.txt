@@ -1,0 +1,9 @@
+file '../output/title.mp4'
+file '../output/speaker.mp4'
+file '../output/sponsors.mp4'
+duration 8
+file '../output/dummy.mp4'
+file '../output/sponsors.mp4'
+duration 8
+file '../output/speaker.mp4'
+file '../output/title.mp4'
